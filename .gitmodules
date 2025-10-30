@@ -1,0 +1,6 @@
+[submodule "asheos-api"]
+	path = asheos-api
+	url = https://github.com/Gammon64/asheos-api.git
+[submodule "asheos-web"]
+	path = asheos-web
+	url = https://github.com/Gammon64/asheos-web.git
